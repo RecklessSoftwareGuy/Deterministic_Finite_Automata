@@ -6,3 +6,4 @@ Implemented Using Linked Lists in C.
 
 ## Written Solution:
 
+<img width="792" height="700" alt="image" src="https://github.com/user-attachments/assets/d4072408-ce3a-48ec-ba15-e45670b1b96f" />
